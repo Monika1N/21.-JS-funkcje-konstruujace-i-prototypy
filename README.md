@@ -1,1 +1,1 @@
-# Zadanie-11.4-Programowanie-obiektowe-w-Javascripcie
+# JavaScript - funkcje konstruujące i prototypy
